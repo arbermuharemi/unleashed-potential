@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436421094916",
+    "firebase_url": "https://canine-concierge.firebaseio.com",
+    "project_id": "canine-concierge",
+    "storage_bucket": "canine-concierge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436421094916:android:50b2b1982f829a4b",
+        "android_client_info": {
+          "package_name": "com.canineconcierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436421094916-f46dslqh4ilfdbulpi133b87t8uf66vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.canineconcierge",
+            "certificate_hash": "856377b63992d4139499d7324c42e1f42cca3baf"
+          }
+        },
+        {
+          "client_id": "436421094916-lrtl3d0bblrs6qkdtvai1v4aec5nk1da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhjNgvkUbKrHIBVbOkwsncdsYpaiMPuyg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436421094916-lrtl3d0bblrs6qkdtvai1v4aec5nk1da.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
