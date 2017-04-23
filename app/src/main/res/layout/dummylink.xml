@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="450dp"
+    android:weightSum="1">
+
+
+    <DatePicker
+
+    android:id="@+id/datePicker"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:adjustViewBounds="true"
+    android:dayOfWeekBackground="#4286f4"
+    android:headerBackground="#4286f4"
+    android:scaleX=".6"
+    android:scaleY=".6"
+    android:startYear="2017"
+    android:visibility="visible"
+    android:layout_weight="0.85"
+        tools:layout_editor_absoluteY="-11dp"
+        tools:layout_editor_absoluteX="18dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="148dp"
+        android:layout_height="48dp"
+        android:text="Schedule a Walk"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-11dp"
+        android:translationX="100dp"
+        android:translationY="75px"/>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="155dp"
+        android:layout_height="48dp"
+        android:text="Past Walks"
+        android:translationX="101dp"
+        android:translationY="333dp"
+        tools:layout_editor_absoluteX="9dp"
+        tools:layout_editor_absoluteY="3dp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="147dp"
+        android:layout_height="48dp"
+        android:text="Upcoming Walks"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="-11dp"
+        android:translationX="100dp"
+        android:translationY="400dp"
+        />
+
+</android.support.constraint.ConstraintLayout>

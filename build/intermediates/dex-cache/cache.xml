@@ -2,60 +2,112 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\josia_000\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_84838527b2627e6ab126b8310b1e22b8ab430105.jar" />
+        is-multidex="true"
+        jar="C:\Users\Brivas\unleashed-potential\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_02d2cab8dd94928ef0d532a54a7ae2e999805b89\classes.dex" />
     </item>
     <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_2b1811da2aa20a5599be64149a04b3d92caaa25a.jar" />
-    </item>
-    <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1a40c9be32e075ee25cfd150be62175ef6d6f2fb.jar" />
-    </item>
-    <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_b7ef181709e10f2209c2d829038f48b73c5c29f2.jar" />
-    </item>
-    <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_115810a03f20ecda1595a192de2dd4ccea165b86.jar" />
-    </item>
-    <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_bf772f952e31e713a317c35c66b268a8a2091935.jar" />
-    </item>
-    <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\145ee2b553f2cc9012f4bcf0c210407125e8a537\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_5141bb2edf9704fd2fad3df04b237565da898d6d.jar" />
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee7298bf02b93b45bdeb6d94074df4bc35551381\classes.dex" />
     </item>
     <item
-        jar="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
-        jumboMode="false"
-        revision="23.0.3"
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\da8d65c8acb36144cd26a9bc6934624ec55e769d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a889174e75d9cb5393f4e14c7ac30c65bad54b97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\d0378d7a49077b35ca522c746e72fe10357dc17e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9b94d08dce993d5f6585a5e017176509b0af947\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\2c1023cfc4c0f318accc705ff4c18bbd89cb29c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_028b26252b19fa319302570683018d945c054719\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\26d9f44a0a0093f25bf44e3e29ff7c3f2ea6dd38\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c92a418a9ce978bd94f1088c9fc2b7f2032996d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\unleashed-potential\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d1659f768529fbcdd20aad9040ed761a3d18549">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_4905de695a6310f9c6f64544163147b10e5e8269\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b5703e2f4d95a686860bdef6f2f6b875c2471899\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\2c1023cfc4c0f318accc705ff4c18bbd89cb29c0\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\test\Documents\School\3311\unleashed-potential\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_db0c0630c85146760605f8ed84d1f57efbb6731a.jar" />
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_1040e66596eb2b885cd950cd57ed00dcbdcc930c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_e2e33e35e551a985d1d7d474d68ea041bada0d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\30ef7870d6c6de3f518ccdfd840cc13880f74a78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9bd4ea8f2768f87ec8a917870610e90241d5b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Brivas\.android\build-cache\992d246a6bcf3ec932e21ef251f053d472cc78b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Brivas\unleashed-potential\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82ef64a9fcec0ec47b8de1ffe995dce25f8e4fd6\classes.dex" />
     </item>
 
 </items>
